@@ -6,7 +6,7 @@ The first Roblox FPS unlocker for macOS. This script works  on both Intel and Ap
 
 You will first need to download the script, you can use the following command in the Terminal to do it:
 ```
-curl -sfLO https://raw.githubusercontent.com/lanylow/rbxfpsunlocker-osx/script/install_fps_unlocker
+curl -sfLO https://raw.githubusercontent.com/wea-f/rbxfpsunlocker-osx/script/install_fps_unlocker
 ```
 And then run it using this command:
 ```
